@@ -85,6 +85,6 @@ Dashboard ini menyajikan ringkasan visual dari performa bisnis Kimia Farma. Peng
 
 ---
 
-Dibuat oleh **[NAMA_ANDA]**
+Dibuat oleh **Agnes Zenobia Griselda Petrina**
 *   **LinkedIn:** `linkedin.com/in/agnesgriseldaa`
 *   **Email:** `agnesgriselle66@gmail.com`
