@@ -69,7 +69,8 @@ Dashboard ini menyajikan ringkasan visual dari performa bisnis Kimia Farma. Peng
 [Performance_Analytics_Kimia_Farma_-_Agnes_Zenobia_Griselda_Petrina Google Looker](https://lookerstudio.google.com/reporting/deb8cff0-256c-4477-8a32-e6990163902a)
 
 ### Pratinjau Dashboard
-[Performance_Analytics_Kimia_Farma_-_Agnes_Zenobia_Griselda_Petrina.pdf](https://github.com/user-attachments/files/23286152/Performance_Analytics_Kimia_Farma_-_Agnes_Zenobia_Griselda_Petrina.pdf)
+<img width="1800" height="2058" alt="page-1" src="https://github.com/user-attachments/assets/844be05f-67ae-48d7-aafa-1d243901f8cd" />
+
 
 
 ---
