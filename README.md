@@ -66,9 +66,10 @@ Proyek ini dilaksanakan melalui beberapa tahapan utama:
 Dashboard ini menyajikan ringkasan visual dari performa bisnis Kimia Farma. Pengguna dapat berinteraksi dengan filter untuk melihat data pada periode tertentu dan mendapatkan wawasan mendalam dari berbagai metrik yang disajikan.
 
 **🔗 Link ke Dashboard:**
-
+[Performance_Analytics_Kimia_Farma_-_Agnes_Zenobia_Griselda_Petrina Google Looker](https://lookerstudio.google.com/reporting/deb8cff0-256c-4477-8a32-e6990163902a)
 
 ### Pratinjau Dashboard
+[Performance_Analytics_Kimia_Farma_-_Agnes_Zenobia_Griselda_Petrina.pdf](https://github.com/user-attachments/files/23286152/Performance_Analytics_Kimia_Farma_-_Agnes_Zenobia_Griselda_Petrina.pdf)
 
 
 ---
